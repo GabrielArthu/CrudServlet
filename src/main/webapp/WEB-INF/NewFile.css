@@ -1,0 +1,48 @@
+@charset "utf-8";
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+  
+}
+/*
+body{
+  background-image: url(../th-3832312291);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:end;
+  height:100vh;
+}
+
+#bg{
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  height:100vh;
+  text-align: center;
+}
+
+p{
+  color: green;
+}*/
+
+body{
+  
+  background-image: url(../airplane.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:100vh;
+}
+
+#tt{
+   color: white;
+   margin-bottom: 3%;
+
+}
+orm{
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
